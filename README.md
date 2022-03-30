@@ -28,4 +28,4 @@
 ![2](https://user-images.githubusercontent.com/101103934/160905992-66c2ebc8-e29c-400d-b6d6-ca6ab87bb2a0.png)
 ![3](https://user-images.githubusercontent.com/101103934/160905997-cc901bbb-eb4a-4155-96c3-a25f7516bd04.png)
 ![4](https://user-images.githubusercontent.com/101103934/160906002-8afd70a0-5ec9-4a80-8dd7-01a3668cc5f5.png)
-https://user-images.githubusercontent.com/101103934/160906060-1255b75e-2395-41c5-abb2-64692b8402dd.mp4
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://user-images.githubusercontent.com/101103934/160906060-1255b75e-2395-41c5-abb2-64692b8402dd.mp4)
